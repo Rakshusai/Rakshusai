@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rakshusai
+- 👋 Hi, I’m @Kayal
 - 👀 I’m interested in learning and exploring new things
 - 🌱 I’m currently learning SQL/Hadoop/Hive
 - 💞️ I’m looking to collaborate on new companies who allows freshers and talents who wants to learn and explore themself
